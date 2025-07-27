@@ -8,18 +8,19 @@ import struct
 x = np.array([0, 20, 42, 54, 64])
 y = np.array([0, 471, 864, 973, 1023])
 offsets=[0x00C9E25A,0x00C9E362,0x00C9E46A,  28837514, 28837778, 28838042]
-filename='com.qti.tuned.star_semco_s5kgn2_wide.bin'
+filename='com.qti.tuned.star_semco_s5kgn2_wide.bin'  #original file length: 33331371
+
 
 #x = np.array([0, 5, 25, 43, 64])
 #y = np.array([0, 163, 614, 830, 1023])
 #offsets=[0x0058B6F2,0x0058B7FA,0x0058B902]
-#filename='com.qti.tuned.star_semco_imx586_ultra.bin'
+#filename='com.qti.tuned.star_semco_imx586_ultra.bin' #original file length: 17375657
 
 
 #x = np.array([0, 11, 22, 46, 64])
 #y = np.array([0, 154, 352,788 , 1023])
 #offsets=[0x003BDF8E,0x003BE096,0x003BE19E,   3990686, 3990950, 3991214]
-#filename='com.qti.tuned.star_semco_imx586_tele.bin'
+#filename='com.qti.tuned.star_semco_imx586_tele.bin'  # original file length: 8864321
 
 
 
