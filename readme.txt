@@ -7,4 +7,4 @@ To patch your file, please uncomment lines with filename you working with, and c
 
 This script overwrites your file!!!
 Offsets hardcoded in this script are correct only for files with sizes exactly as specified in comments.
-Files sizes and offsets depends on ROM version. I used files from the last ROM.
+Files sizes and offsets depends on ROM version. I used files from the newest ROM.
